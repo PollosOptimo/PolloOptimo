@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Ventas Distribuidora",
+  "description": "Sistema de ventas tipo PWA con carrito y checkout vía WhatsApp, personalizable para cualquier empresa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
